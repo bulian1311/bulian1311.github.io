@@ -1,5 +1,6 @@
 {
   "files": {
+<<<<<<< HEAD
     "main.js": "/static/js/main.14607cd8.chunk.js",
     "main.js.map": "/static/js/main.14607cd8.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.14c9f60f.js",
@@ -12,23 +13,43 @@
     "static/js/2.0702b0c9.chunk.js.LICENSE.txt": "/static/js/2.0702b0c9.chunk.js.LICENSE.txt",
     "static/media/arrow-left.svg": "/static/media/arrow-left.868fc978.svg",
     "static/media/arrow-right.svg": "/static/media/arrow-right.a68282af.svg",
+=======
+    "main.js": "/static/js/main.97716f82.chunk.js",
+    "main.js.map": "/static/js/main.97716f82.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.7773f347.js",
+    "runtime-main.js.map": "/static/js/runtime-main.7773f347.js.map",
+    "static/js/2.43499847.chunk.js": "/static/js/2.43499847.chunk.js",
+    "static/js/2.43499847.chunk.js.map": "/static/js/2.43499847.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.7a13437217a41827e00057a97a6cbaab.js": "/precache-manifest.7a13437217a41827e00057a97a6cbaab.js",
+    "service-worker.js": "/service-worker.js",
+    "static/js/2.43499847.chunk.js.LICENSE.txt": "/static/js/2.43499847.chunk.js.LICENSE.txt",
+    "static/media/arrow-left.svg": "/static/media/arrow-left.bcf03b84.svg",
+    "static/media/arrow-right.svg": "/static/media/arrow-right.61ad2b6f.svg",
+>>>>>>> af88e16b994f57a4175f29a12ffdc25e73c5af1c
     "static/media/batutvarendu.jpg": "/static/media/batutvarendu.53d48bbb.jpg",
-    "static/media/cart.svg": "/static/media/cart.08ab7c81.svg",
-    "static/media/categories.svg": "/static/media/categories.cff3d3d0.svg",
-    "static/media/contacts.svg": "/static/media/contacts.17e0d4d3.svg",
-    "static/media/cross.svg": "/static/media/cross.7bc30fd3.svg",
+    "static/media/cart.svg": "/static/media/cart.fe7f88db.svg",
+    "static/media/categories.svg": "/static/media/categories.397e453e.svg",
+    "static/media/contacts.svg": "/static/media/contacts.dcee5f52.svg",
+    "static/media/cross.svg": "/static/media/cross.9926a1bf.svg",
     "static/media/eventomania.png": "/static/media/eventomania.32856ee3.png",
-    "static/media/mail.svg": "/static/media/mail.8f1afef7.svg",
-    "static/media/phone.svg": "/static/media/phone.1702e943.svg",
+    "static/media/mail.svg": "/static/media/mail.33f845a4.svg",
+    "static/media/phone.svg": "/static/media/phone.fa2e35de.svg",
     "static/media/pro-interactive.png": "/static/media/pro-interactive.40d6c989.png",
-    "static/media/search.svg": "/static/media/search.808a2ab1.svg",
-    "static/media/search2.svg": "/static/media/search2.a8d084bb.svg",
-    "static/media/secret.svg": "/static/media/secret.f84ecc54.svg",
-    "static/media/sort.svg": "/static/media/sort.9cec11e8.svg"
+    "static/media/search.svg": "/static/media/search.038fce52.svg",
+    "static/media/search2.svg": "/static/media/search2.5d266798.svg",
+    "static/media/secret.svg": "/static/media/secret.2b72c014.svg",
+    "static/media/sort.svg": "/static/media/sort.3f5411e4.svg"
   },
   "entrypoints": [
+<<<<<<< HEAD
     "static/js/runtime-main.14c9f60f.js",
     "static/js/2.0702b0c9.chunk.js",
     "static/js/main.14607cd8.chunk.js"
+=======
+    "static/js/runtime-main.7773f347.js",
+    "static/js/2.43499847.chunk.js",
+    "static/js/main.97716f82.chunk.js"
+>>>>>>> af88e16b994f57a4175f29a12ffdc25e73c5af1c
   ]
 }
